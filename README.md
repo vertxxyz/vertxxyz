@@ -6,7 +6,7 @@ A core package that contains many resources I use daily. This is required to all
   - [Editors](https://github.com/vertxxyz/Vertx.Editors)
   Extensions to Unity's built-in editors that add basic navigation improvements. Easily find other scriptable objects of similar types, select assets from scripts, all in an extremely built-in feeling manner.
   - [Decorators](https://github.com/vertxxyz/Vertx.Decorators)
-  Attributes and Property Decorators for Unity that have access to the SerializedProperty used to draw the field.
+  Attributes and Property Decorators for Unity that have access to the SerializedProperty used to draw the field. Adds a decorator for SerializeReference fields.
 - [Debugging](https://github.com/vertxxyz/Vertx.Debugging)
 Utilities for debugging physics cast methods in the same format as Unity's Debug functions
 - [Attributes](https://github.com/vertxxyz/Vertx.Attributes)
