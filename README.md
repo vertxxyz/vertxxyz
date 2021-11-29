@@ -16,8 +16,12 @@ Ever printed a 2D array and Unity displays it wonky and jagged? Problem solved.
 
 
 ### Unity Troubleshooting
-I maintain a small website for troubleshooting basic Unity issues that beginners often ask on the Unity Discord [here](https://help.vertx.xyz).  
+I maintain a website for troubleshooting basic Unity issues often asked on the Unity Discord [here](https://help.vertx.xyz).  
 It can be contributed to [here](https://github.com/vertxxyz/help.vertx.xyz).  
+
+### Discord
+I moderate the [Unity Discord](https://discord.gg/unity) and am developing helper tools to maintain its resources and enhance its moderation.  
+- [Discord Embeds Action](https://github.com/vertxxyz/discord-embeds-action) is a github action that can maintain Discord embeds via git.
 
 ### Me
 🎵 Come join me on [Bandcamp](https://bandcamp.com/vertx)  
