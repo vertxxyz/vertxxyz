@@ -1,19 +1,16 @@
 ### Unity Utilities
 - [NSelection](https://github.com/vertxxyz/NSelection)
 Select Objects behind others in the scene-view hassle-free.
+- [Debugging](https://github.com/vertxxyz/Vertx.Debugging)
+Editor debug drawing for physics casts, shapes, text, and gizmos.
 - [Utilities](https://github.com/vertxxyz/Vertx.Utilities)
 A core package that contains many resources I use daily. This is required to allow the below packages to function.
   - [Editors](https://github.com/vertxxyz/Vertx.Editors)
   Extensions to Unity's built-in editors that add basic navigation improvements. Easily find other scriptable objects of similar types, select assets from scripts, all in an extremely built-in feeling manner.
   - [Decorators](https://github.com/vertxxyz/Vertx.Decorators)
   Attributes and Property Decorators for Unity that have access to the SerializedProperty used to draw the field. Adds a decorator for SerializeReference fields.
-- [Debugging](https://github.com/vertxxyz/Vertx.Debugging)
-Utilities for debugging physics cast methods in the same format as Unity's Debug functions
 - [Attributes](https://github.com/vertxxyz/Vertx.Attributes)
-Property Attributes and Drawers I use daily.
-- [Monospaced Console](https://github.com/vertxxyz/Monospaced-Console)
-Ever printed a 2D array and Unity displays it wonky and jagged? Problem solved.
-
+Property Attributes and Drawers.
 
 ### Unity Troubleshooting
 I maintain a website for troubleshooting basic Unity issues often asked on the Unity Discord [here](https://help.vertx.xyz).  
@@ -25,4 +22,6 @@ I moderate the [Unity Discord](https://discord.gg/unity) and am developing helpe
 
 ### Me
 🎵 Come join me on [Bandcamp](https://bandcamp.com/vertx)  
-☕ Support me by [buying me a coffee](https://ko-fi.com/vertx)  
+☕ Support me by buying me a coffee:  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z42ZYHB)
