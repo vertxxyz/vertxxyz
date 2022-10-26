@@ -16,12 +16,15 @@ Property Attributes and Drawers.
 I maintain a website for troubleshooting basic Unity issues often asked on the Unity Discord [here](https://help.vertx.xyz).  
 It can be contributed to [here](https://github.com/vertxxyz/help.vertx.xyz).  
 
+### Developer Notes
+I created and curate [Developer Notes](https://github.com/Developer-Notes-Extension) 💬, a browser extension that displays shared comments on gamedev documentation. There have been hundreds of notes contributed, a significant portion of which are my own.
+
 ### Discord
 I moderate the [Unity Discord](https://discord.gg/unity) and am developing helper tools to maintain its resources and enhance its moderation.  
 - [Discord Embeds Action](https://github.com/vertxxyz/discord-embeds-action) is a github action that can maintain Discord embeds via git.
 
 ### Me
-🎵 Come join me on [Bandcamp](https://bandcamp.com/vertx)  
+🎵 Come join me on [Bandcamp](https://bandcamp.com/vertx).  
 ☕ Support me by buying me a coffee:  
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z42ZYHB)
