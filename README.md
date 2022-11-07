@@ -1,15 +1,15 @@
 ### Unity Utilities
-- [NSelection](https://github.com/vertxxyz/NSelection)
-Select Objects behind others in the scene-view hassle-free.
-- [Debugging](https://github.com/vertxxyz/Vertx.Debugging)
+- [NSelection](https://github.com/vertxxyz/NSelection) -
+Select Objects behind others in the scene-view hassle-free. Collapse hierarchies to your selection.
+- [Debugging](https://github.com/vertxxyz/Vertx.Debugging) -
 Editor debug drawing for physics casts, shapes, text, and gizmos.
-- [Utilities](https://github.com/vertxxyz/Vertx.Utilities)
+- [Utilities](https://github.com/vertxxyz/Vertx.Utilities) -
 A core package that contains many resources I use daily. This is required to allow the below packages to function.
-  - [Editors](https://github.com/vertxxyz/Vertx.Editors)
+  - [Editors](https://github.com/vertxxyz/Vertx.Editors) -
   Extensions to Unity's built-in editors that add basic navigation improvements. Easily find other scriptable objects of similar types, select assets from scripts, all in an extremely built-in feeling manner.
-  - [Decorators](https://github.com/vertxxyz/Vertx.Decorators)
+  - [Decorators](https://github.com/vertxxyz/Vertx.Decorators) -
   Attributes and Property Decorators for Unity that have access to the SerializedProperty used to draw the field. Adds a decorator for SerializeReference fields.
-- [Attributes](https://github.com/vertxxyz/Vertx.Attributes)
+- [Attributes](https://github.com/vertxxyz/Vertx.Attributes) -
 Property Attributes and Drawers.
 
 ### Unity Troubleshooting
@@ -17,7 +17,7 @@ I maintain a website for troubleshooting basic Unity issues often asked on the U
 It can be contributed to [here](https://github.com/vertxxyz/help.vertx.xyz).  
 
 ### Developer Notes
-I created and curate [Developer Notes](https://github.com/Developer-Notes-Extension) 💬, a browser extension that displays shared comments on gamedev documentation. There have been hundreds of notes contributed, a significant portion of which are my own.
+I developed and curate [Developer Notes](https://github.com/Developer-Notes-Extension) 💬, a browser extension that displays shared comments on gamedev documentation. There have been hundreds of notes contributed, a significant portion of which are my own.
 
 ### Discord
 I moderate the [Unity Discord](https://discord.gg/unity) and am developing helper tools to maintain its resources and enhance its moderation.  
