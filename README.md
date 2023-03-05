@@ -7,7 +7,7 @@ Editor debug drawing for physics casts, shapes, text, and gizmos.
 A core package that contains many resources I use daily. This is required to allow the below packages to function.
   - [Editors](https://github.com/vertxxyz/Vertx.Editors) -
   Extensions to Unity's built-in editors that add basic navigation improvements. Easily find other scriptable objects of similar types, select assets from scripts, all in an extremely built-in feeling manner.
-  - [SerializeReference Dropdown]([https://github.com/vertxxyz/Vertx.Decorators](https://github.com/vertxxyz/Vertx.SerializeReferenceDropdown)) -
+  - [SerializeReference Dropdown](https://github.com/vertxxyz/Vertx.SerializeReferenceDropdown) -
   Adds a decorator for SerializeReference fields.
 - [Attributes](https://github.com/vertxxyz/Vertx.Attributes) -
 Property Attributes and Drawers.
