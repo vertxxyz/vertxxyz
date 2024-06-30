@@ -1,16 +1,10 @@
 ### Unity Utilities
-- [NSelection](https://github.com/vertxxyz/NSelection) -
-Select Objects behind others in the scene-view hassle-free. Collapse hierarchies to your selection.
-- [Debugging](https://github.com/vertxxyz/Vertx.Debugging) -
-Editor debug drawing for physics casts, shapes, text, and gizmos.
-- [Utilities](https://github.com/vertxxyz/Vertx.Utilities) -
-A core package that contains many resources I use daily. This is required to allow the below packages to function.
-  - [Editors](https://github.com/vertxxyz/Vertx.Editors) -
-  Extensions to Unity's built-in editors that add basic navigation improvements. Easily find other scriptable objects of similar types, select assets from scripts, all in an extremely built-in feeling manner.
-  - [SerializeReference Dropdown](https://github.com/vertxxyz/Vertx.SerializeReferenceDropdown) -
-  Adds a decorator for SerializeReference fields.
-- [Attributes](https://github.com/vertxxyz/Vertx.Attributes) -
-Property Attributes and Drawers.
+|                 |             |
+|-----------------|-------------|
+| [NSelection](https://github.com/vertxxyz/NSelection) | Select Objects behind others in the scene-view hassle-free. Collapse hierarchies to your selection. |
+| [Debugging](https://github.com/vertxxyz/Vertx.Debugging) | Editor debug drawing for physics casts, shapes, text, and gizmos. |
+| [Edge Knife](https://github.com/vertxxyz/Vertx.EdgeKnife) | Edge tool for Shader Graph/VFX Graph to create redirects and remove edges. |
+| [SerializeReference Dropdown](https://github.com/vertxxyz/Vertx.SerializeReferenceDropdown) | Adds a decorator for SerializeReference fields. |
 
 ### Unity Troubleshooting
 I maintain a website for troubleshooting basic Unity issues often asked on the Unity Discord [here](https://unity.huh.how).  
